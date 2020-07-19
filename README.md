@@ -1,4 +1,4 @@
-### Hi there 👋
+gud at java, kotlin, android, php, dart, sql
 
 <!--
 **TheManusia/TheManusia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
