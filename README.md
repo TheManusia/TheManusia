@@ -1,4 +1,4 @@
-i can speak java, kotlin, android, php, dart, sql
+i can speak java, kotlin, android, php, sql
 
 <!--
 **TheManusia/TheManusia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
