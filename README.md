@@ -5,7 +5,7 @@
  ### What I'm doing: 
  
 - 🔭 I’m currently school on vocational high school majoring in software engineering 
-- 🌱 I’m currently learning Kotlin! 
+- 🌱 I’m currently learning Flutter! 
 - 👯 I’m looking to collaborate on Android apps or Spring Boot Rest Service
 - 📫 How to reach me: iianfarii@gmail.com 
 - ⚡ Fun fact: Coding are one of my hobbies, and I usually solve logic problems before sleep 
