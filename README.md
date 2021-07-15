@@ -1,3 +1,7 @@
+
+Hello
+
+<!--
 ## Hi there 👋, I'm Rizqi Audianto Fari!
 #### Android App Developer, Spring Boot Developer and maker for social good!
 
@@ -23,7 +27,7 @@
  
 ### Reach me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TheManusia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://themanusia.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/themanusia__)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://facebook.com/Ian.TheManusia)
- 
+ -->
 <!--
 **TheManusia/TheManusia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
