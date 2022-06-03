@@ -1,6 +1,7 @@
 
-Hello
+Hello.
 
+![](https://raw.githubusercontent.com/TheManusia/github-stats/master/generated/overview.svg) ![](https://raw.githubusercontent.com/TheManusia/github-stats/master/generated/languages.svg)
 <!--
 ## Hi there 👋, I'm Rizqi Audianto Fari!
 #### Android App Developer, Spring Boot Developer and maker for social good!
