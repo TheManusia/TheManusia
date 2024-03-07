@@ -1,6 +1,6 @@
 
 Hello. My name Ian, I can do all programming if I get paid
-
+![](https://count.getloli.com/get/@themanusia) 
 ![](https://raw.githubusercontent.com/TheManusia/github-stats/master/generated/overview.svg) ![](https://raw.githubusercontent.com/TheManusia/github-stats/master/generated/languages.svg) ![](https://github-readme-stats.vercel.app/api?username=TheManusia&count_private=true&show_icons=true)
 <!--
 ## Hi there 👋, I'm Rizqi Audianto Fari!
