@@ -1,8 +1,18 @@
-
+<div align="center">
 Hello. My name Ian, I can do all programming if I get paid
-![](https://count.getloli.com/get/@themanusia) 
-![](https://raw.githubusercontent.com/TheManusia/github-stats/master/generated/overview.svg) ![](https://raw.githubusercontent.com/TheManusia/github-stats/master/generated/languages.svg) ![](https://github-readme-stats.vercel.app/api?username=TheManusia&count_private=true&show_icons=true)
-<!--
+<br><br>
+    
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/rizqi-audianto-fari-6805841b0/)
+[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/u/themanusia)
+<br><br>
+ 
+![](https://moe-count.themanusia.my.id/get/@themanusia?theme=rule34) 
+
+![](https://raw.githubusercontent.com/TheManusia/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/TheManusia/github-stats/master/generated/languages.svg)
+</div>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=TheManusia&count_private=true&show_icons=true)
+
 ## Hi there 👋, I'm Rizqi Audianto Fari!
 #### Android App Developer, Spring Boot Developer and maker for social good!
 
